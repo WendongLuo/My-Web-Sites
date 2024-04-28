@@ -25,7 +25,9 @@ Academic Works
 ======
 
 ![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work1.png)
+
 ![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work2.png)
+
 ![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work3.png)
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
