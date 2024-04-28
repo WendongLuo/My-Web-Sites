@@ -36,8 +36,8 @@ Acta Geotechnica 2024
 2.Electro-osmosis - Membraneless Vacuum - Permeable Stone Column Combined Reinforcement for Foundation Structure and Construction Method. 
 Jian-Ping Li, Wen-Dong Luo, Jun-Hao Chen, Heng wang, Yun-Shan xu. 
 Chinese Invention Patent 2024（under review）
-
-![image](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work1.png)
+https://raw.githubusercontent.com/WendongLuo/My-Web-Sites/master/images/work1.png
+![image](https://raw.githubusercontent.com/WendongLuo/My-Web-Sites/master/images/work1.png)
 
 ![image](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work1.png)
 
