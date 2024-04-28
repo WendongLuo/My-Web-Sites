@@ -44,6 +44,9 @@ Chinese Invention Patent 2024（under review）
 ![images](https://raw.githubusercontent.com/WendongLuo/My-Web-Sites/master/images/work3.png)
 
 
+![images](https://raw.githubusercontent.com/WendongLuo/My-Web-Sites/master/images/%E5%8E%9F%E7%89%88.png)
+
+
 3.Study on construction technology of irregular shield in station. 
 Wen-Dong Luo，Jian-Wei Yang. 
 Undergraduate Thesis 2018
