@@ -9,7 +9,6 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Wendong Luo's Personal Homepage"
-title_separator          : "-"
 name                     : &name "Wendong Luo"
 description              : &description "personal description"
 url                      : https://wendongluo.github.io/My-Web-Sites/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
