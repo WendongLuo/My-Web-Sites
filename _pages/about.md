@@ -38,7 +38,7 @@ Jian-Ping Li, Wen-Dong Luo, Jun-Hao Chen, Heng wang, Yun-Shan xu.
 Chinese Invention Patent 2024（under review）
 
 ![image](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work1.png)
-
+![image](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work1.png)
 3.Study on construction technology of irregular shield in station. 
 Wen-Dong Luo，Jian-Wei Yang. 
 Undergraduate Thesis 2018
