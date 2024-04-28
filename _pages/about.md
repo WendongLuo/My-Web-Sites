@@ -35,11 +35,11 @@ Academic Works
 Jian-Ping Li, Wen-Dong Luo, Zhang-Long Chen, Jun Liu & Shun Wang
 Acta Geotechnica 2024
 
-1. Electro-osmosis - Membraneless Vacuum - Permeable Stone Column Combined Reinforcement for Foundation Structure and Construction Method
+1.Electro-osmosis - Membraneless Vacuum - Permeable Stone Column Combined Reinforcement for Foundation Structure and Construction Method
 Jian-Ping Li, Wen-Dong Luo, Jun-Hao Chen, Heng wang, Yun-Shan xu
 Chinese Invention Patent 2024（under review）
 
-1. Study on construction technology of irregular shield in station 
+1.Study on construction technology of irregular shield in station 
 Wen-Dong Luo，Jian-Wei Yang 
 Undergraduate Thesis 2018
 
