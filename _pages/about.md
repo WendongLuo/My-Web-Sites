@@ -31,7 +31,7 @@ Academic Works
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Education
-------
+======
 M.S.; Fujian University of Technology; ; 2022
 
 B.S.; Shijiazhuang Tiedao University SiFang College; ; 2015
