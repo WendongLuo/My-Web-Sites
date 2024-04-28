@@ -24,7 +24,7 @@ November 2023，Attend the international arch bridge conference, Arch 2023！
 Academic Works
 ======
 
-![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/_pages/work1.png)
+![_pages](https://github.com/WendongLuo/My-Web-Sites/blob/master/_pages/work1.png)
 
 
 1.Effect of permeable anode on electroosmotic consolidation using the horizontal electro-kinetic geosynthetics: analytical approach. 
