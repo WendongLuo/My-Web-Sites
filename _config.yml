@@ -21,7 +21,7 @@ repository               : "academicpages/https://wendongluo.github.io/My-Web-Si
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "原版.png"
   name             : "Wendong Luo"
   pronouns         : # example: "she/her"  
   location         : "Fujian China"
