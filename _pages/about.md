@@ -14,11 +14,11 @@ I previously pursued my undergraduate degree in Railway Engineering at Sifang Co
 
 News
 ======
-April 2024，One paper has been accepted by Acta Geotechnica.！
+April 2024，One paper has been accepted by Acta Geotechnica！
 
-December 2023，Participate in the opening presentation of the graduate thesis proposal.！
+December 2023，Participate in the opening presentation of the graduate thesis proposal！
 
-November 2023，Attend the international arch bridge conference, Arch 2023.！
+November 2023，Attend the international arch bridge conference, Arch 2023！
 
 
 Academic Works
