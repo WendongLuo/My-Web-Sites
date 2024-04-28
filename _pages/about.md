@@ -31,7 +31,7 @@ Academic Works
 Jian-Ping Li, Wen-Dong Luo, Zhang-Long Chen, Jun Liu & Shun Wang. 
 Acta Geotechnica 2024
 
-
+image: url([https://your-url](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work2.png))
 ![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work2.png)
 
 2.Electro-osmosis - Membraneless Vacuum - Permeable Stone Column Combined Reinforcement for Foundation Structure and Construction Method. 
