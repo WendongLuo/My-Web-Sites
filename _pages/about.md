@@ -26,7 +26,7 @@ Academic Works
 
 ![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work1.png)
 <div align="center">
-  <img src="https://github.com/WendongLuo/work1.png">
+  <img src="https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work1.png">
 </div>
 
 1.Effect of permeable anode on electroosmotic consolidation using the horizontal electro-kinetic geosynthetics: analytical approach. 
