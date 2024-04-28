@@ -24,21 +24,24 @@ November 2023，Attend the international arch bridge conference, Arch 2023.！
 Academic Works
 ======
 
-![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work1.png)1.Effect of permeable anode on electroosmotic consolidation using the horizontal electro-kinetic geosynthetics: analytical approach. 
+![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work1.png)
+
+1.Effect of permeable anode on electroosmotic consolidation using the horizontal electro-kinetic geosynthetics: analytical approach. 
 Jian-Ping Li, Wen-Dong Luo, Zhang-Long Chen, Jun Liu & Shun Wang. 
 Acta Geotechnica 2024
 
 
-![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work2.png)2.Electro-osmosis - Membraneless Vacuum - Permeable Stone Column Combined Reinforcement for Foundation Structure and Construction Method. 
+![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work2.png)
+
+2.Electro-osmosis - Membraneless Vacuum - Permeable Stone Column Combined Reinforcement for Foundation Structure and Construction Method. 
 Jian-Ping Li, Wen-Dong Luo, Jun-Hao Chen, Heng wang, Yun-Shan xu. 
 Chinese Invention Patent 2024（under review）
 
+![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work3.png)
 
-![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work3.png)3.Study on construction technology of irregular shield in station. 
+3.Study on construction technology of irregular shield in station. 
 Wen-Dong Luo，Jian-Wei Yang. 
 Undergraduate Thesis 2018
-
-
 
 
 
