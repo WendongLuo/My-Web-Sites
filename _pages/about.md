@@ -25,7 +25,7 @@ Academic Works
 ======
 
 ![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work1.png)
-image: /images/work1.png
+
 
 1.Effect of permeable anode on electroosmotic consolidation using the horizontal electro-kinetic geosynthetics: analytical approach. 
 Jian-Ping Li, Wen-Dong Luo, Zhang-Long Chen, Jun Liu & Shun Wang. 
