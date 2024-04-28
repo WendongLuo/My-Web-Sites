@@ -37,7 +37,7 @@ Acta Geotechnica 2024
 Jian-Ping Li, Wen-Dong Luo, Jun-Hao Chen, Heng wang, Yun-Shan xu. 
 Chinese Invention Patent 2024（under review）
 
-![images](https://github.com/WendongLuo/My-Web-Sites/blob/master/images/work3.png)
+![images](blob:https://github.com/9de698f7-4d76-47a1-8b09-bd1523d6be60)
 
 3.Study on construction technology of irregular shield in station. 
 Wen-Dong Luo，Jian-Wei Yang. 
