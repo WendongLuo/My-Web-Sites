@@ -28,7 +28,9 @@ Academic Works
 1.Effect of permeable anode on electroosmotic consolidation using the horizontal electro-kinetic geosynthetics: analytical approach. 
  Jian-Ping Li, Wen-Dong Luo, Zhang-Long Chen, Jun Liu & Shun Wang. 
  Acta Geotechnica 2024
+
 ![image](https://raw.githubusercontent.com/WendongLuo/My-Web-Sites/master/images/work1.png)
+
 
 
 
@@ -36,7 +38,9 @@ Academic Works
 2.Electro-osmosis - Membraneless Vacuum - Permeable Stone Column Combined Reinforcement for Foundation Structure and Construction Method. 
  Jian-Ping Li, Wen-Dong Luo, Jun-Hao Chen, Heng wang, Yun-Shan xu. 
  Chinese Invention Patent 2024（under review）
+
 ![image](https://raw.githubusercontent.com/WendongLuo/My-Web-Sites/master/images/work2.png)
+
 
 
 
@@ -44,6 +48,7 @@ Academic Works
 3.Study on construction technology of irregular shield in station. 
  Wen-Dong Luo，Jian-Wei Yang. 
  Undergraduate Thesis 2018
+
 ![images](https://raw.githubusercontent.com/WendongLuo/My-Web-Sites/master/images/work3.png)
 
 
